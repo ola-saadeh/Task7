@@ -1,0 +1,15 @@
+.container {
+  margin: 50px;
+}
+.container .row {
+  display: flex;
+  flex-direction: row;
+}
+.container .row .column {
+  float: left;
+}
+.container .row .column p {
+  margin: 20px 0;
+}
+
+/*# sourceMappingURL=style.css.map */

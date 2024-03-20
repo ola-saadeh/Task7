@@ -1,0 +1,18 @@
+.container {
+    margin: 50px;
+    .row {
+        display: flex;
+        flex-direction: row;
+        .column {
+            float: left;
+            p {
+                margin: 20px 0;  
+            }
+        }
+    }
+}
+
+
+
+
+
